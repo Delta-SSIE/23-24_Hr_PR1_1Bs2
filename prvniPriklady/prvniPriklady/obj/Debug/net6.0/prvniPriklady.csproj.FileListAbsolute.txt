@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\prvniPriklady\prvniPriklady\bin\Debug\net6.0\prvniPriklady.exe
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\prvniPriklady\prvniPriklady\bin\Debug\net6.0\prvniPriklady.deps.json
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\prvniPriklady\prvniPriklady\bin\Debug\net6.0\prvniPriklady.runtimeconfig.json
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\prvniPriklady\prvniPriklady\bin\Debug\net6.0\prvniPriklady.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\prvniPriklady\prvniPriklady\bin\Debug\net6.0\prvniPriklady.pdb
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\prvniPriklady\prvniPriklady\obj\Debug\net6.0\prvniPriklady.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\prvniPriklady\prvniPriklady\obj\Debug\net6.0\prvniPriklady.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\prvniPriklady\prvniPriklady\obj\Debug\net6.0\prvniPriklady.AssemblyInfo.cs
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\prvniPriklady\prvniPriklady\obj\Debug\net6.0\prvniPriklady.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\prvniPriklady\prvniPriklady\obj\Debug\net6.0\prvniPriklady.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\prvniPriklady\prvniPriklady\obj\Debug\net6.0\refint\prvniPriklady.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\prvniPriklady\prvniPriklady\obj\Debug\net6.0\prvniPriklady.pdb
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\prvniPriklady\prvniPriklady\obj\Debug\net6.0\prvniPriklady.genruntimeconfig.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\prvniPriklady\prvniPriklady\obj\Debug\net6.0\ref\prvniPriklady.dll
