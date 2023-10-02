@@ -39,3 +39,52 @@ class MainClass
 
     }
 }
+
+using System;
+
+class MainClass
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Zadej rok narozeni: ");
+        int rokNarozeni = int.Parse(Console.ReadLine());
+        int nastupDuchod = 0;
+
+        /*switch (rokNarozeni){
+        case 1936:
+        case 1937:
+        case 1938:
+        case 1939:
+          nastupDuchod = 60;
+          break;
+
+
+        }
+        */
+        if (rokNarozeni >= 1936 && rokNarozeni <= 1940)
+            nastupDuchod = 60;
+        if (rokNarozeni >= 1941 && rokNarozeni <= 1946)
+            nastupDuchod = 61;
+        if (rokNarozeni >= 1947 && rokNarozeni <= 1952)
+            nastupDuchod = 62;
+        if (rokNarozeni >= 1953 && rokNarozeni <= 1958)
+            nastupDuchod = 63;
+        if (rokNarozeni >= 1959 && rokNarozeni <= 1964)
+            nastupDuchod = 64;
+        if (rokNarozeni >= 1965 && rokNarozeni <= 1970)
+            nastupDuchod = 65;
+        if (rokNarozeni >= 1971 && rokNarozeni <= 1976)
+            nastupDuchod = 66;
+        if (rokNarozeni >= 1977 && rokNarozeni <= 1982)
+            nastupDuchod = 67;
+        if (rokNarozeni >= 1983 && rokNarozeni <= 1988)
+            nastupDuchod = 68;
+        if (rokNarozeni >= 1989 && rokNarozeni <= 1994)
+            nastupDuchod = 69;
+        if (rokNarozeni >= 1995 && rokNarozeni <= 2000)
+            nastupDuchod = 70;
+        if (rokNarozeni >= 2001 && rokNarozeni <= 2005)
+            nastupDuchod = 71;
+        Console.WriteLine("S rokem narozeni " + rokNarozeni + " pujdes do duchodu v " + nastupDuchod + " letech a bude to v roce " + (rokNarozeni + nastupDuchod));
+    }
+}
