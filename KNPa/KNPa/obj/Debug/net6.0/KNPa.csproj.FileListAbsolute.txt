@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\KNPa\KNPa\bin\Debug\net6.0\KNPa.exe
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\KNPa\KNPa\bin\Debug\net6.0\KNPa.deps.json
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\KNPa\KNPa\bin\Debug\net6.0\KNPa.runtimeconfig.json
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\KNPa\KNPa\bin\Debug\net6.0\KNPa.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\KNPa\KNPa\bin\Debug\net6.0\KNPa.pdb
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\KNPa\KNPa\obj\Debug\net6.0\KNPa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\KNPa\KNPa\obj\Debug\net6.0\KNPa.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\KNPa\KNPa\obj\Debug\net6.0\KNPa.AssemblyInfo.cs
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\KNPa\KNPa\obj\Debug\net6.0\KNPa.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\KNPa\KNPa\obj\Debug\net6.0\KNPa.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\KNPa\KNPa\obj\Debug\net6.0\refint\KNPa.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\KNPa\KNPa\obj\Debug\net6.0\KNPa.pdb
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\KNPa\KNPa\obj\Debug\net6.0\KNPa.genruntimeconfig.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\KNPa\KNPa\obj\Debug\net6.0\ref\KNPa.dll
