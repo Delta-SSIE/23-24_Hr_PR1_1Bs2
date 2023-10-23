@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\cyklus_while\cyklus_while\bin\Debug\net6.0\cyklus_while.exe
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\cyklus_while\cyklus_while\bin\Debug\net6.0\cyklus_while.deps.json
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\cyklus_while\cyklus_while\bin\Debug\net6.0\cyklus_while.runtimeconfig.json
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\cyklus_while\cyklus_while\bin\Debug\net6.0\cyklus_while.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\cyklus_while\cyklus_while\bin\Debug\net6.0\cyklus_while.pdb
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\cyklus_while\cyklus_while\obj\Debug\net6.0\cyklus_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\cyklus_while\cyklus_while\obj\Debug\net6.0\cyklus_while.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\cyklus_while\cyklus_while\obj\Debug\net6.0\cyklus_while.AssemblyInfo.cs
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\cyklus_while\cyklus_while\obj\Debug\net6.0\cyklus_while.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\cyklus_while\cyklus_while\obj\Debug\net6.0\cyklus_while.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\cyklus_while\cyklus_while\obj\Debug\net6.0\refint\cyklus_while.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\cyklus_while\cyklus_while\obj\Debug\net6.0\cyklus_while.pdb
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\cyklus_while\cyklus_while\obj\Debug\net6.0\cyklus_while.genruntimeconfig.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\cyklus_while\cyklus_while\obj\Debug\net6.0\ref\cyklus_while.dll
