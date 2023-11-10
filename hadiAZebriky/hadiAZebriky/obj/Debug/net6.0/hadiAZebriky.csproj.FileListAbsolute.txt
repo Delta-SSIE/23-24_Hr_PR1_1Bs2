@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\hadiAZebriky\hadiAZebriky\bin\Debug\net6.0\hadiAZebriky.exe
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\hadiAZebriky\hadiAZebriky\bin\Debug\net6.0\hadiAZebriky.deps.json
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\hadiAZebriky\hadiAZebriky\bin\Debug\net6.0\hadiAZebriky.runtimeconfig.json
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\hadiAZebriky\hadiAZebriky\bin\Debug\net6.0\hadiAZebriky.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\hadiAZebriky\hadiAZebriky\bin\Debug\net6.0\hadiAZebriky.pdb
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\hadiAZebriky\hadiAZebriky\obj\Debug\net6.0\hadiAZebriky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\hadiAZebriky\hadiAZebriky\obj\Debug\net6.0\hadiAZebriky.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\hadiAZebriky\hadiAZebriky\obj\Debug\net6.0\hadiAZebriky.AssemblyInfo.cs
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\hadiAZebriky\hadiAZebriky\obj\Debug\net6.0\hadiAZebriky.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\hadiAZebriky\hadiAZebriky\obj\Debug\net6.0\hadiAZebriky.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\hadiAZebriky\hadiAZebriky\obj\Debug\net6.0\refint\hadiAZebriky.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\hadiAZebriky\hadiAZebriky\obj\Debug\net6.0\hadiAZebriky.pdb
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\hadiAZebriky\hadiAZebriky\obj\Debug\net6.0\hadiAZebriky.genruntimeconfig.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\hadiAZebriky\hadiAZebriky\obj\Debug\net6.0\ref\hadiAZebriky.dll
