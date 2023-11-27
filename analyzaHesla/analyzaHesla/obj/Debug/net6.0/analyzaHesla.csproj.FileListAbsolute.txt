@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\analyzaHesla\analyzaHesla\bin\Debug\net6.0\analyzaHesla.exe
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\analyzaHesla\analyzaHesla\bin\Debug\net6.0\analyzaHesla.deps.json
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\analyzaHesla\analyzaHesla\bin\Debug\net6.0\analyzaHesla.runtimeconfig.json
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\analyzaHesla\analyzaHesla\bin\Debug\net6.0\analyzaHesla.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\analyzaHesla\analyzaHesla\bin\Debug\net6.0\analyzaHesla.pdb
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\analyzaHesla\analyzaHesla\obj\Debug\net6.0\analyzaHesla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\analyzaHesla\analyzaHesla\obj\Debug\net6.0\analyzaHesla.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\analyzaHesla\analyzaHesla\obj\Debug\net6.0\analyzaHesla.AssemblyInfo.cs
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\analyzaHesla\analyzaHesla\obj\Debug\net6.0\analyzaHesla.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\analyzaHesla\analyzaHesla\obj\Debug\net6.0\analyzaHesla.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\analyzaHesla\analyzaHesla\obj\Debug\net6.0\refint\analyzaHesla.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\analyzaHesla\analyzaHesla\obj\Debug\net6.0\analyzaHesla.pdb
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\analyzaHesla\analyzaHesla\obj\Debug\net6.0\analyzaHesla.genruntimeconfig.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\analyzaHesla\analyzaHesla\obj\Debug\net6.0\ref\analyzaHesla.dll

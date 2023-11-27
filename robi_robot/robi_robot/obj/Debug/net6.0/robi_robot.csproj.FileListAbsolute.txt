@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\robi_robot\robi_robot\bin\Debug\net6.0\robi_robot.exe
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\robi_robot\robi_robot\bin\Debug\net6.0\robi_robot.deps.json
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\robi_robot\robi_robot\bin\Debug\net6.0\robi_robot.runtimeconfig.json
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\robi_robot\robi_robot\bin\Debug\net6.0\robi_robot.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\robi_robot\robi_robot\bin\Debug\net6.0\robi_robot.pdb
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\robi_robot\robi_robot\obj\Debug\net6.0\robi_robot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\robi_robot\robi_robot\obj\Debug\net6.0\robi_robot.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\robi_robot\robi_robot\obj\Debug\net6.0\robi_robot.AssemblyInfo.cs
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\robi_robot\robi_robot\obj\Debug\net6.0\robi_robot.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\robi_robot\robi_robot\obj\Debug\net6.0\robi_robot.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\robi_robot\robi_robot\obj\Debug\net6.0\refint\robi_robot.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\robi_robot\robi_robot\obj\Debug\net6.0\robi_robot.pdb
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\robi_robot\robi_robot\obj\Debug\net6.0\robi_robot.genruntimeconfig.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\robi_robot\robi_robot\obj\Debug\net6.0\ref\robi_robot.dll
