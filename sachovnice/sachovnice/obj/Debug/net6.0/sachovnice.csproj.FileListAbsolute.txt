@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\sachovnice\sachovnice\bin\Debug\net6.0\sachovnice.exe
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\sachovnice\sachovnice\bin\Debug\net6.0\sachovnice.deps.json
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\sachovnice\sachovnice\bin\Debug\net6.0\sachovnice.runtimeconfig.json
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\sachovnice\sachovnice\bin\Debug\net6.0\sachovnice.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\sachovnice\sachovnice\bin\Debug\net6.0\sachovnice.pdb
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\sachovnice\sachovnice\obj\Debug\net6.0\sachovnice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\sachovnice\sachovnice\obj\Debug\net6.0\sachovnice.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\sachovnice\sachovnice\obj\Debug\net6.0\sachovnice.AssemblyInfo.cs
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\sachovnice\sachovnice\obj\Debug\net6.0\sachovnice.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\sachovnice\sachovnice\obj\Debug\net6.0\sachovnice.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\sachovnice\sachovnice\obj\Debug\net6.0\refint\sachovnice.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\sachovnice\sachovnice\obj\Debug\net6.0\sachovnice.pdb
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\sachovnice\sachovnice\obj\Debug\net6.0\sachovnice.genruntimeconfig.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\sachovnice\sachovnice\obj\Debug\net6.0\ref\sachovnice.dll
