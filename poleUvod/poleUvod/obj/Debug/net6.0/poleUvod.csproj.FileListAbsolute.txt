@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\poleUvod\poleUvod\bin\Debug\net6.0\poleUvod.exe
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\poleUvod\poleUvod\bin\Debug\net6.0\poleUvod.deps.json
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\poleUvod\poleUvod\bin\Debug\net6.0\poleUvod.runtimeconfig.json
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\poleUvod\poleUvod\bin\Debug\net6.0\poleUvod.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\poleUvod\poleUvod\bin\Debug\net6.0\poleUvod.pdb
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\poleUvod\poleUvod\obj\Debug\net6.0\poleUvod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\poleUvod\poleUvod\obj\Debug\net6.0\poleUvod.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\poleUvod\poleUvod\obj\Debug\net6.0\poleUvod.AssemblyInfo.cs
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\poleUvod\poleUvod\obj\Debug\net6.0\poleUvod.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\poleUvod\poleUvod\obj\Debug\net6.0\poleUvod.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\poleUvod\poleUvod\obj\Debug\net6.0\refint\poleUvod.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\poleUvod\poleUvod\obj\Debug\net6.0\poleUvod.pdb
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\poleUvod\poleUvod\obj\Debug\net6.0\poleUvod.genruntimeconfig.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\poleUvod\poleUvod\obj\Debug\net6.0\ref\poleUvod.dll
