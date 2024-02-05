@@ -15,8 +15,8 @@ Console.WriteLine("-------------------------------");
 
 vypisMatici(maticeDefinice);
 
-//naplnMaticiRucne(Pole2D2);
-//vypisMatici(Pole2D2);
+naplnMaticiRucne(Pole2D2);
+vypisMatici(Pole2D2);
 
 
 
