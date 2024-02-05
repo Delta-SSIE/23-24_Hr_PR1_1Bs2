@@ -4,6 +4,7 @@ using System.ComponentModel.Design;
 int[,] Pole2D;  //deklarace matice, lze i int [][], pak se ale musi pouzivat vsude stejne
 Pole2D = new int[4,4]; //definice matice o rozmeru 4x4
 int[,] Pole2D2 = new int[3,3]; //tuhle matici, chceme naplnit rucne od uzivatele
+int[,] maticeDefinice = new int[,] { { 3, 4, 5 }, { 4, 5, 6 }, { 7, 8, 9 } };
 
 
 //naplneni matice nahodnymi hodnotami
@@ -12,8 +13,10 @@ vypisMatici(Pole2D);
 
 Console.WriteLine("-------------------------------");
 
-naplnMaticiRucne(Pole2D2);
-vypisMatici(Pole2D2);
+vypisMatici(maticeDefinice);
+
+//naplnMaticiRucne(Pole2D2);
+//vypisMatici(Pole2D2);
 
 
 
