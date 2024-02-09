@@ -32,7 +32,9 @@ for(int i = 0;i<poleVraceno.Length;i++ )
 Console.WriteLine();
 Console.WriteLine("Prvky nad hlavni diagonalou: ");
 vypisNadHlavniDiagonalou(Pole2D);
-
+Console.WriteLine();
+Console.WriteLine("Prvky pod hlavni diagonalou: ");
+vypisPodHlavniDiagonalou(Pole2D);
 
 
 
@@ -110,6 +112,22 @@ static void vypisNadHlavniDiagonalou(int[,] matice) {
         for (int j = 0; j < matice.GetLength(1); j++)
         {
             if (i < j) { //podminka pro prvky nad hlavni diagonalou
+                Console.Write(matice[i, j] + " ");
+            }
+        }
+    }
+
+
+}
+
+static void vypisPodHlavniDiagonalou(int[,] matice)
+{
+    for (int i = 0; i < matice.GetLength(0); i++)
+    {
+        for (int j = 0; j < matice.GetLength(1); j++)
+        {
+            if (i > j)
+            { //podminka pro prvky pod hlavni diagonalou
                 Console.Write(matice[i, j] + " ");
             }
         }
