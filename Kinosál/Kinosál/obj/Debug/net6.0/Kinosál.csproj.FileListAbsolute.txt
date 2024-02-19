@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Kinosál\Kinosál\bin\Debug\net6.0\Kinosál.exe
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Kinosál\Kinosál\bin\Debug\net6.0\Kinosál.deps.json
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Kinosál\Kinosál\bin\Debug\net6.0\Kinosál.runtimeconfig.json
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Kinosál\Kinosál\bin\Debug\net6.0\Kinosál.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Kinosál\Kinosál\bin\Debug\net6.0\Kinosál.pdb
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Kinosál\Kinosál\obj\Debug\net6.0\Kinosál.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Kinosál\Kinosál\obj\Debug\net6.0\Kinosál.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Kinosál\Kinosál\obj\Debug\net6.0\Kinosál.AssemblyInfo.cs
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Kinosál\Kinosál\obj\Debug\net6.0\Kinosál.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Kinosál\Kinosál\obj\Debug\net6.0\Kinosál.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Kinosál\Kinosál\obj\Debug\net6.0\refint\Kinosál.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Kinosál\Kinosál\obj\Debug\net6.0\Kinosál.pdb
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Kinosál\Kinosál\obj\Debug\net6.0\Kinosál.genruntimeconfig.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Kinosál\Kinosál\obj\Debug\net6.0\ref\Kinosál.dll
