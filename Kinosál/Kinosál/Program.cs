@@ -81,7 +81,28 @@ switch (volba)
                 Console.WriteLine("Kinosal je nutne nejprve otevrit.");
             break;
             case 3:
+            if (naplneno)
+            {
+              
+                Console.WriteLine("Zadej pocet mist k rezervaci:");
+                int pocet;
+                while (int.TryParse(Console.ReadLine(), out pocet) == false) {
+                    Console.WriteLine("Neplatna hodnota");
+                }
+                if (pocet > pocetVolno)
+                {
+                    Console.WriteLine("Neni dostupnych tolik mist");
+                }
+                else {
+                  
+                
+                }
+                
+            }
+            else
+                Console.WriteLine("Nejprve je nutne kinosal otevrit.");
             break;
+        
         case 4:
             if (naplneno)
             {
@@ -127,3 +148,6 @@ static void vypisMatici(int[,] matice) {
 
     }
 }
+
+
+
