@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\kolekce1\kolekce1\bin\Debug\net6.0\kolekce1.exe
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\kolekce1\kolekce1\bin\Debug\net6.0\kolekce1.deps.json
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\kolekce1\kolekce1\bin\Debug\net6.0\kolekce1.runtimeconfig.json
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\kolekce1\kolekce1\bin\Debug\net6.0\kolekce1.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\kolekce1\kolekce1\bin\Debug\net6.0\kolekce1.pdb
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\kolekce1\kolekce1\obj\Debug\net6.0\kolekce1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\kolekce1\kolekce1\obj\Debug\net6.0\kolekce1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\kolekce1\kolekce1\obj\Debug\net6.0\kolekce1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\kolekce1\kolekce1\obj\Debug\net6.0\kolekce1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\kolekce1\kolekce1\obj\Debug\net6.0\kolekce1.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\kolekce1\kolekce1\obj\Debug\net6.0\refint\kolekce1.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\kolekce1\kolekce1\obj\Debug\net6.0\kolekce1.pdb
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\kolekce1\kolekce1\obj\Debug\net6.0\kolekce1.genruntimeconfig.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\kolekce1\kolekce1\obj\Debug\net6.0\ref\kolekce1.dll

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Rekurze2\Rekurze2\bin\Debug\net6.0\Rekurze2.exe
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Rekurze2\Rekurze2\bin\Debug\net6.0\Rekurze2.deps.json
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Rekurze2\Rekurze2\bin\Debug\net6.0\Rekurze2.runtimeconfig.json
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Rekurze2\Rekurze2\bin\Debug\net6.0\Rekurze2.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Rekurze2\Rekurze2\bin\Debug\net6.0\Rekurze2.pdb
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Rekurze2\Rekurze2\obj\Debug\net6.0\Rekurze2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Rekurze2\Rekurze2\obj\Debug\net6.0\Rekurze2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Rekurze2\Rekurze2\obj\Debug\net6.0\Rekurze2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Rekurze2\Rekurze2\obj\Debug\net6.0\Rekurze2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Rekurze2\Rekurze2\obj\Debug\net6.0\Rekurze2.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Rekurze2\Rekurze2\obj\Debug\net6.0\refint\Rekurze2.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Rekurze2\Rekurze2\obj\Debug\net6.0\Rekurze2.pdb
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Rekurze2\Rekurze2\obj\Debug\net6.0\Rekurze2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Rekurze2\Rekurze2\obj\Debug\net6.0\ref\Rekurze2.dll
