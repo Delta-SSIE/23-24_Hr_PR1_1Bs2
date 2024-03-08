@@ -1,5 +1,8 @@
 ﻿Console.WriteLine("Vitejte v nakupnim seznamu 1.0");
 int volba;
+bool vytvoren = false;
+List<String> nakupniSeznam = new List<String>();
+
 while (true)
 {
    volba = menu();
@@ -10,10 +13,21 @@ while (true)
     }
     else {
         switch (volba) {
-            case 1: break;
+            case 1:
+                Console.WriteLine("Zadej nazev polozky");
+                String polozka = Console.ReadLine();
+                nakupniSeznam.Add(polozka);
+                Console.WriteLine("Polozka byla zapsana.");
+                break;
+
+
             case 2: break;
             case 3: break;
-            case 4: break;
+            case 4:
+                foreach ( String p in nakupniSeznam) {
+                    Console.WriteLine("*    " + p);
+                }
+                break;
         }
     }
 }
@@ -21,10 +35,10 @@ static int menu() {
     int volba;
     while (true)
     {
-        Console.WriteLine("1. Vytvor seznam");
-        Console.WriteLine("2. Pridej polozky");
-        Console.WriteLine("3. Vyhledej");
-        Console.WriteLine("4. Odeber polozku");
+        Console.WriteLine("1. Pridej polozku");
+        Console.WriteLine("2. Vyhledej");
+        Console.WriteLine("3. Odeber polozku");
+        Console.WriteLine("4. Vyhledej");
         Console.WriteLine("0 Ukoncit program");
         if (int.TryParse(Console.ReadLine(), out volba) && (volba>=0 && volba<=4) )
             break;
