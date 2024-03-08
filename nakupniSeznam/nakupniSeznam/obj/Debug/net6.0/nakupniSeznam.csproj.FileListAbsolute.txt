@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\nakupniSeznam\nakupniSeznam\bin\Debug\net6.0\nakupniSeznam.exe
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\nakupniSeznam\nakupniSeznam\bin\Debug\net6.0\nakupniSeznam.deps.json
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\nakupniSeznam\nakupniSeznam\bin\Debug\net6.0\nakupniSeznam.runtimeconfig.json
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\nakupniSeznam\nakupniSeznam\bin\Debug\net6.0\nakupniSeznam.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\nakupniSeznam\nakupniSeznam\bin\Debug\net6.0\nakupniSeznam.pdb
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\nakupniSeznam\nakupniSeznam\obj\Debug\net6.0\nakupniSeznam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\nakupniSeznam\nakupniSeznam\obj\Debug\net6.0\nakupniSeznam.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\nakupniSeznam\nakupniSeznam\obj\Debug\net6.0\nakupniSeznam.AssemblyInfo.cs
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\nakupniSeznam\nakupniSeznam\obj\Debug\net6.0\nakupniSeznam.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\nakupniSeznam\nakupniSeznam\obj\Debug\net6.0\nakupniSeznam.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\nakupniSeznam\nakupniSeznam\obj\Debug\net6.0\refint\nakupniSeznam.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\nakupniSeznam\nakupniSeznam\obj\Debug\net6.0\nakupniSeznam.pdb
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\nakupniSeznam\nakupniSeznam\obj\Debug\net6.0\nakupniSeznam.genruntimeconfig.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\nakupniSeznam\nakupniSeznam\obj\Debug\net6.0\ref\nakupniSeznam.dll
