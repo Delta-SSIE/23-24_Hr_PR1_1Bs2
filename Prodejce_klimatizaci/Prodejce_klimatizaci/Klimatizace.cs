@@ -29,11 +29,11 @@ namespace Prodejce_klimatizaci
         }
         public void setDruh(String druh)
         {
-            this.Druh = druh;
+            this.druh = druh;
         }
         public String getDruh()
         {
-            return this.Druh;
+            return this.druh;
         }
         public void setCena(int cena)
         {

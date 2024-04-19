@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Prodejce_klimatizaci\Prodejce_klimatizaci\obj\Debug\net6.0\Prodejce_klimatizaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Prodejce_klimatizaci\Prodejce_klimatizaci\obj\Debug\net6.0\Prodejce_klimatizaci.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Prodejce_klimatizaci\Prodejce_klimatizaci\obj\Debug\net6.0\Prodejce_klimatizaci.AssemblyInfo.cs
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Prodejce_klimatizaci\Prodejce_klimatizaci\obj\Debug\net6.0\Prodejce_klimatizaci.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Prodejce_klimatizaci\Prodejce_klimatizaci\bin\Debug\net6.0\Prodejce_klimatizaci.exe
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Prodejce_klimatizaci\Prodejce_klimatizaci\bin\Debug\net6.0\Prodejce_klimatizaci.deps.json
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Prodejce_klimatizaci\Prodejce_klimatizaci\bin\Debug\net6.0\Prodejce_klimatizaci.runtimeconfig.json
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Prodejce_klimatizaci\Prodejce_klimatizaci\bin\Debug\net6.0\Prodejce_klimatizaci.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Prodejce_klimatizaci\Prodejce_klimatizaci\bin\Debug\net6.0\Prodejce_klimatizaci.pdb
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Prodejce_klimatizaci\Prodejce_klimatizaci\obj\Debug\net6.0\Prodejce_klimatizaci.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Prodejce_klimatizaci\Prodejce_klimatizaci\obj\Debug\net6.0\refint\Prodejce_klimatizaci.dll
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Prodejce_klimatizaci\Prodejce_klimatizaci\obj\Debug\net6.0\Prodejce_klimatizaci.pdb
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Prodejce_klimatizaci\Prodejce_klimatizaci\obj\Debug\net6.0\Prodejce_klimatizaci.genruntimeconfig.cache
+C:\Users\Admin\Desktop\delta materialy\_23-24\kodyGitHub\23-24_Hr_PR1_1Bs2\Prodejce_klimatizaci\Prodejce_klimatizaci\obj\Debug\net6.0\ref\Prodejce_klimatizaci.dll
