@@ -1,0 +1,3 @@
+Seznam studentu:
+Student: Karel Opicka
+Student: Kluk Opicak
