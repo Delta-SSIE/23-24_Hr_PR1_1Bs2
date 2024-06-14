@@ -45,7 +45,15 @@ namespace soubory
             {
                 Console.WriteLine(s);
             }
-        
+        sr.Close();
+        }
+
+        public void vypisTridu() {
+            foreach (Student student in studenti)
+            {
+                Console.WriteLine(student.ToString());
+            }
+
         }
     }
 }
